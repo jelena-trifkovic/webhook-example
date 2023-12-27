@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+dist/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+lib-cov
+coverage
+
+# Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# Compiled binary addons (https://github.com/nodejs/node-gyp#configuration)
+build/
+
+# Sensitive or environment-specific files
+.env
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
